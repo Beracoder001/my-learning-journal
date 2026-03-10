@@ -1,0 +1,1 @@
+week 1 was really important in learning the basics of coding. I set up my full coding environment and learnt how to create files, and push them to github.
