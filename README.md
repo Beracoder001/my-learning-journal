@@ -16,7 +16,7 @@ I am learning Git, Github, VSCode, Python and AI tools from scratch over 3 month
 ## Journey start date
 March 2026  
 ## My Progress log
--Day 01 - set up a full developer enevvironment
--Day 02 - practiced the git workflow
--Day 03 - practiced the git workflow without any assistance or referencing to somehting
+-Day 01 - set up a full developer environment
+-Day 02 - practised the git workflow
+-Day 03 - practised the git workflow without any assistance or referencing to somehting
 -Day 04 - continued more practice independently without any external assistance.
