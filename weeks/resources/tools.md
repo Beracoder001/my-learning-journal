@@ -1,0 +1,3 @@
+-python - the coding language I aim to learn
+-VSCode - my learning environment
+-Github - my home of my coding journey
